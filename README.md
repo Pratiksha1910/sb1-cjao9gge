@@ -1,2 +1,3 @@
-# sb1-cjao9gge
+# Calculator
+
 Repository created by Bolt to GitHub extension
